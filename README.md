@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 I’m currently studying at Shahid Beheshti University.
 
-![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahra1379&show_icons=true&theme=monokai)
-
 My gmail address  *" z.motamed2000@gmail.com "*
+![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahra1379&show_icons=true&theme=monokai)
