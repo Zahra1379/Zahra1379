@@ -20,6 +20,6 @@ I’m currently studying at Shahid Beheshti University.
 
 My gmail address  *" z.motamed2000@gmail.com "*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zahra1379&repo=github-readme-stats)](https://github.com/Zahra1379/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zahra1379&repo=blob/main/README.md)](https://github.com/Zahra1379/Zahra1379/blob/main/README.md)
 
 ![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahra1379&show_icons=true&theme=monokai)
