@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 I’m currently studying at Shahid Beheshti University.
 
+[![Zahra's GitHub stats](https://github-readme-stats.vercel.app/apiZahra1379anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 My gmail address  *" z.motamed2000@gmail.com "*
