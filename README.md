@@ -25,13 +25,9 @@ My gmail address  *" z.motamed2000@gmail.com "*
 ![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahra1379&show_icons=true&theme=monokai)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra1379&layout=compact&theme=algolia" alt="rsharifnasab" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra1379&layout=compact&theme=monokai" alt="Zahra1379" /> 
 </p>
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Zahra1379&show_icons=true&theme=algolia"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zahra1379&show_icons=true&theme=monokai"/>
 </p>
